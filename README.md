@@ -1,10 +1,10 @@
-# 🧠 Media Intelligence & Data Engineering Platform
+#  Media Intelligence & Data Engineering Platform
 
 A large-scale Data Engineering system for ingesting, processing, analyzing, and serving multi-source media data (Twitter, TikTok, YouTube, News, Broadcast).
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This system processes data from multiple sources using Airflow pipelines, enriches it with AI models, streams events via Kafka, and serves it through Elasticsearch and analytics dashboards.
 
@@ -46,7 +46,7 @@ Data Sources → Airflow DAGs → PostgreSQL → AI Enrichment → Kafka → Ela
 
 ---
 
-## 🧠 Technologies
+##  Technologies
 
 - Apache Airflow
 - PostgreSQL
@@ -68,7 +68,7 @@ Data Sources → Airflow DAGs → PostgreSQL → AI Enrichment → Kafka → Ela
 
 ---
 
-## 🧠 My Role
+##  My Role
 
 - Built Airflow DAGs for ingestion
 - Designed data pipelines
