@@ -1,0 +1,48 @@
+DATA SOURCES
+- Twitter / X
+- TikTok
+- YouTube
+- News APIs
+- Broadcast (EMM)
+
+↓
+
+AIRFLOW DAG LAYER
+- Data ingestion pipelines
+- Subject-based pipelines
+- Scheduled pipelines
+- Trigger pipelines
+
+↓
+
+POSTGRESQL
+- Raw data storage
+- Processed data
+- Staging tables
+
+↓
+
+AI ENRICHMENT LAYER
+- Sentiment analysis
+- Named Entity Recognition
+- Content understanding
+
+↓
+
+KAFKA STREAMING LAYER
+- Event streaming
+- Decoupling pipelines
+
+↓
+
+ELASTICSEARCH LAYER
+- Search engine
+- Fast retrieval
+- Analytics queries
+
+↓
+
+DASHBOARDS
+- Reporting
+- KPIs
+- Analytics views
